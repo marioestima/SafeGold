@@ -1,0 +1,8 @@
+npm install express kafkajs 
+npm install typescript @types/express prisma tsx -D
+
+mkdir src
+cd src 
+touch server.tsx
+
+npx prisma init
